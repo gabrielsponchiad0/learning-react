@@ -10,10 +10,10 @@ Conteúdo estudado:
 - ES6 import/export
 - Keeper App (projeto)
 
-  Tecnologias:
+Curso base: The Complete Web Development Bootcamp (Angela Yu)
+
+Tecnologias:
 - React
 - JavaScript (ES6+)
 - HTML
 - CSS
-
-Curso base: The Complete Web Development Bootcamp (Angela Yu)
