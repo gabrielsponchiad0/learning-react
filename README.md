@@ -10,7 +10,7 @@ Conteúdo estudado:
 - ES6 import/export
 - Keeper App (projeto)
 
-- Tecnologias:
+  Tecnologias:
 - React
 - JavaScript (ES6+)
 - HTML
