@@ -9,6 +9,9 @@ Conteúdo estudado:
 - Componentes
 - ES6 import/export
 - Keeper App (projeto)
+- React Props
+- Mapping Components
+  
 
 Curso base: The Complete Web Development Bootcamp (Angela Yu)
 
